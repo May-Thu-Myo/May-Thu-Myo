@@ -1,15 +1,15 @@
-Hi, I'm Suhana 👋
-🎓 4th Year Computer Science Student
-💻 Passionate about JavaScript and modern web development
-⚛️ Currently learning React & the JavaScript ecosystem
-🧪 Exploring Manual QA Testing and Playwright
-🚀 Building projects and improving my skills every day
-🌱 Always open to learning and new opportunities
-🛠️ Tech Stack
-HTML • CSS • JavaScript • Bootstrap
-React (Learning)
-Git & GitHub
-Playwright (Learning)
+Hi, I'm Suhana 👋<br>
+🎓 4th Year Computer Science Student<br>
+💻 Passionate about JavaScript and modern web development<br>
+⚛️ Currently learning React & the JavaScript ecosystem<br>
+🧪 Exploring Manual QA Testing and Playwright<br>
+🚀 Building projects and improving my skills every day<br>
+🌱 Always open to learning and new opportunities<br>
+🛠️ Tech Stack<br><br>
+HTML • CSS • JavaScript • Bootstrap<br>
+React (Learning)<br>
+Git & GitHub<br>
+Playwright (Learning)<br>
 
 
 # 💻 Tech Stack:
