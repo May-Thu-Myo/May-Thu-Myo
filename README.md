@@ -5,11 +5,6 @@ Hi, I'm Suhana 👋<br>
 🧪 Exploring Manual QA Testing and Playwright<br>
 🚀 Building projects and improving my skills every day<br>
 🌱 Always open to learning and new opportunities<br><br><br>
-🛠️ Tech Stack<br>
-HTML • CSS • JavaScript<br>
-React (Learning)<br>
-Git & GitHub<br>
-Playwright (Learning)<br>
 
 
 # 💻 Tech Stack:
