@@ -4,9 +4,9 @@ Hi, I'm Suhana 👋<br>
 ⚛️ Currently learning React & the JavaScript ecosystem<br>
 🧪 Exploring Manual QA Testing and Playwright<br>
 🚀 Building projects and improving my skills every day<br>
-🌱 Always open to learning and new opportunities<br>
-🛠️ Tech Stack<br><br>
-HTML • CSS • JavaScript • Bootstrap<br>
+🌱 Always open to learning and new opportunities<br><br><br>
+🛠️ Tech Stack<br>
+HTML • CSS • JavaScript<br>
 React (Learning)<br>
 Git & GitHub<br>
 Playwright (Learning)<br>
